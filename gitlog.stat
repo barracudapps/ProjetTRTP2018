@@ -1,0 +1,3461 @@
+commit 97253347074f1f79dabf1ec5dd6ac00944228cc6
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 10:29:35 2018 +0100
+
+    Derniere version
+
+commit 7a20ca711705ab6d9461a9f1c32c28a23da99763
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Nov 2 01:37:28 2018 +0100
+
+    Ca fonctiooooooonne
+    
+    youpi.
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit eb6fec20d35eff5174640789885d029e0f398bc5
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 22:35:22 2018 +0100
+
+    Localhost: OK
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit c6c339e5ed36c30f8f771f6c8704f06bd22e00fe
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 18:10:14 2018 +0100
+
+    Débugage tests + résolution partiel receiver
+    
+    Window: OK
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit 25a2bbb0f6e898929a9244cfd55930e84db8d6dd
+Author: Pierre Lamotte <Barracuda@wifi-student5-79.sri.ucl.ac.be>
+Date:   Thu Nov 1 13:47:05 2018 +0100
+
+    Attente a l'ecriture sur le socket [sender] ; rectification bug poll [receiver]
+
+commit b1058811ce695e7f47a67a7d5fff532f0b0a0fbd
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 00:14:01 2018 +0100
+
+    Tests pkt : OK!
+
+commit 69e8040630d0f3d2385eadc455de687237ae2ce0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:44:09 2018 +0100
+
+    poursuite tests
+
+commit d120ee33ee2f8338c52fb5f23b64532eebe7f82e
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:10:32 2018 +0100
+
+    bye bye queues
+
+commit cca322f90f9c863c054d7384b1f072c0bc7edbfc
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:09:32 2018 +0100
+
+    Github réparé
+
+commit ba10e2ca3bd2ac11fe4d03de457b387d1a5f6182
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 19:04:49 2018 +0100
+
+    Remplacement dossier src/
+
+commit b67744300c79aab862d97c4020f0ae57b43d7a72
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:02:47 2018 +0100
+
+    Restauration git
+
+commit 6def53c9db1f189b5ef38f90d7aa55f731c29217
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:00:27 2018 +0100
+
+    Revert "Debuggage receiver"
+    
+    This reverts commit 5ad3a2fffac19566f605108f7447ff3146a5e140, reversing
+    changes made to d602db7f7d88b3b48f78cdcc955a9e723f308fa3.
+
+commit 1612f3d5e4d52594fb1244a69d89e83d7aa964ea
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:00:16 2018 +0100
+
+    Revert "Debuggage receiver"
+    
+    This reverts commit cf8b6405aca4c11c50f16b65d3baa62c4a1187c9, reversing
+    changes made to 5ad3a2fffac19566f605108f7447ff3146a5e140.
+
+commit cf8b6405aca4c11c50f16b65d3baa62c4a1187c9
+Merge: 5ad3a2f 7c2f508
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 18:49:51 2018 +0100
+
+    Debuggage receiver
+
+commit 5ad3a2fffac19566f605108f7447ff3146a5e140
+Merge: d602db7 faeaabc
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 18:48:13 2018 +0100
+
+    Debuggage receiver
+
+commit 7c2f508271adfa4e5b5ea271ff3416aced87c888
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 18:42:44 2018 +0100
+
+    Tests supplémentaires
+
+commit f35bc58c9c46be9fda727c5db3d0f09d1ce1e1ad
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 13:06:17 2018 +0100
+
+    Tests window
+    
+    J'ai ajouté une suite de tests sur la fenêtre.
+
+commit 5ee76a25675a6acea2133c3b0beb0d542255269f
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 30 23:07:21 2018 +0100
+
+    Debugage de l'espoir qui renait
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit cbe6cb245199ae0c4197591136ca3769b92455fb
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 30 20:35:45 2018 +0100
+
+    .
+
+commit d602db7f7d88b3b48f78cdcc955a9e723f308fa3
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 27 14:17:15 2018 +0200
+
+    Tentative d'ajustement d'erreurs dans sender.c
+
+commit faeaabcc3c24b2ff154aca12c450c47d585c9712
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 27 12:30:01 2018 +0200
+
+    Sender (sans selective repeat)
+
+commit 76b3e883a719314c6b5d4a9663daa6bcaff9dd10
+Author: Pierre Lamotte <Barracuda@pierres-air.home>
+Date:   Fri Oct 26 21:28:33 2018 +0200
+
+    Suppression recvfrom et ajustements
+
+commit 12159074b6409f87c0431b4048321fdd10db28f1
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 26 17:16:58 2018 +0200
+
+    Boucle d'attente de client modifiee mais recvfrom pose probleme
+
+commit c1b464d9fb05157db49c096862a1283d5e0a926b
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:32:59 2018 +0200
+
+    Modification de la taille des arguments du sender
+
+commit 37d488e1a9204771e426d9eea3af3fb04ff613f7
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:14:50 2018 +0200
+
+    Suppression executables et objets
+
+commit 54b9aa2db25088bbb5b3e41de5ca1239488826f2
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:13:24 2018 +0200
+
+    Correction makefiles
+
+commit bc9390b55b9b623a10423d6f41fa21e4fdf464d8
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:39:13 2018 +0200
+
+    Utilisation pollret dans sender.c
+
+commit 336a2b8c020371a5fb0c94385c4f9f811076bbaa
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:34:22 2018 +0200
+
+    Suppression fichiers.o et executables
+
+commit c52d891aa6669be622a8c03b83d9f39c5a167066
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:32:06 2018 +0200
+
+    Rectification d'erreurs
+
+commit 125451fc044834ec959f0e4879f7a8432f921e67
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 04:56:01 2018 +0200
+
+    win_new
+
+commit 347ccb602018aec7020f0a61b95c76c4bddfca56
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 04:47:43 2018 +0200
+
+    Peaufinement + fichier erreurs
+
+commit b9673e8f2b66fc463743220401c70e00be0f117b
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 04:44:07 2018 +0200
+
+    window header
+
+commit 71e456b8947d93a4fdf4d0c4467c94f4247bf65f
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 03:20:51 2018 +0200
+
+    Sender, fenêtre d'envoi, temps et next
+
+commit 7fff79173432d9a924aa7e97334fc239fa26eb55
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 03:07:52 2018 +0200
+
+    Finalisation deconnexion receiver
+
+commit e5845ef0eff21de5535a22b11b6f3a7f9595ac8d
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 02:38:20 2018 +0200
+
+    Regroupement interface reseau et implementation deconnexion receiver
+
+commit ef068ed88b463a5b96af80aeff48d42794e85aa3
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Sun Oct 21 22:41:31 2018 +0200
+
+    Legeres modifications pour plus de comprehensibilite
+
+commit 1bfd1f9c7b83df9875ff75fa3cd01beb77a839b9
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 21 15:19:50 2018 +0200
+
+    Sender suite
+
+commit 8b943fdcf4f0479a7c2d7ecbcf6bbe6a35706ece
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 21 12:16:30 2018 +0200
+
+    Debut boucle
+
+commit fec46533cd1e820a0f5aa12df4cdd621934eeac5
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sun Oct 21 01:58:42 2018 +0200
+
+    Debut traitement communication receiver.c et ajout methode dans receiver.h
+
+commit 7ac03802ff836c9f35131fc52ca81d4fca7edace
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 23:55:49 2018 +0200
+
+    Tout pour aujourd'hui
+
+commit dc0e10f842e9d93cbb3b10ab0e6b8786f7f23776
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 16:11:26 2018 +0200
+
+    Sauvegarde sender.c
+
+commit 3561d3f648e0aa7024d731ac970ae28eb6098c94
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 16:06:08 2018 +0200
+
+    Receiver
+
+commit 556e43ea08b12385b2d05299681357eeb74414f1
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 14:47:23 2018 +0200
+
+    Suppression des fichiers objets et de l'executable
+
+commit 0b54fca11a02ca1a88ec765bbf18a621bf2701d3
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 14:40:19 2018 +0200
+
+    Initialisation de la connextion cote serveur
+
+commit 8b967a84c30f249f405a944a435384a9668d5a15
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 13:03:52 2018 +0200
+
+    Remise de receiver.c
+
+commit 92dff86774785134ca1fcc2d9a976c6d95e7f3ba
+Merge: 3044d5a 2a1ba13
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 13:00:51 2018 +0200
+
+    Legeres modifications
+
+commit 3044d5a4982ad7497ea5deaa55036febca7fcd68
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 12:56:34 2018 +0200
+
+    Legeres modifications
+
+commit 2a1ba1378b3117aa6e416d387967c95f69b96a52
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 12:52:28 2018 +0200
+
+    output file in receiver
+
+commit 3279938c74f8af9c401b1f5a36cd0abf97479b6c
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 12:36:30 2018 +0200
+
+    Receiver arguments
+
+commit d449f8b64aee565a8ea547cf437c180b174347bb
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 03:18:40 2018 +0200
+
+    Suppression des objets issus de make
+
+commit 8f6685937c62bb98a636838497481b6a5ea07797
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 03:12:47 2018 +0200
+
+    Implementation de tests a verifier
+
+commit 918cf451681539d23296e8839a0716906c474aad
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 01:52:29 2018 +0200
+
+    packet_implem.c OK
+
+commit db05a0281ccd961bd7cdc7c72580d15ebb59ed4b
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 22:14:25 2018 +0200
+
+    Sauvegarde
+
+commit 5607d339b422e6f93cdaa507f6405881e003ce07
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 21:01:34 2018 +0200
+
+    Debut implementation sender.c; Ajout de variables globales dans la librairie; Modification des variables globales dans receiver.c
+
+commit 5d94b767f269444f346e9141bd1ad5f5af8ebfd0
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 19:00:30 2018 +0200
+
+    Finalisation librairie: 'real_address()', 'create_socket()', 'wait_for_client()'
+
+commit 9f6eb65584cb0902f4913a8f9c83dd09d9088438
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Oct 19 12:26:41 2018 +0200
+
+    .
+
+commit 20434caf4c6b8365e2fcc0191d98ecb9525d0c21
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 22:33:29 2018 +0200
+
+    receiver et window : suite
+
+commit 1a0707f1d73bd496cca0b0160ace92f1f98f71c3
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 19:59:22 2018 +0200
+
+    begin receiver et window
+
+commit 11ab45df1b32ab380626082851644f723d217685
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 12:35:07 2018 +0200
+
+    début receiver et struct window
+
+commit c364b0ea9718bec20738d3217541f32cf328f0a7
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 02:46:07 2018 +0200
+
+    Encode OK
+
+commit 7a76674dda5308a1ba82dc70abb98650f7472899
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:31:50 2018 +0200
+
+    Re-mise à niveau
+
+commit 27e93b8f25b86a7265c3ccae398a6c5c43468877
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:29:17 2018 +0200
+
+    Reparation, on espère
+
+commit 26c5f8972712f781959db6d1942e017e4f8f1057
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:27:29 2018 +0200
+
+    Mise a niveau
+
+commit 1afaa369661a830dc21314aaaf6a6cca6916b659
+Merge: 8d76286 f4215c3
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:27:10 2018 +0200
+
+    Mise a niveau
+
+commit 8d762869bf5f413267e8e681bedb1453fc466db5
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:20:32 2018 +0200
+
+    Mise à niveau
+
+commit f4215c33a54c01d428663f9d105edb6cb0358fb8
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:17:55 2018 +0200
+
+    Update test.h
+
+commit 9a891cb75f26a4f3bc4e9c1fc07d4976b6595925
+Merge: 0706027 90b51c8
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:17:38 2018 +0200
+
+    Merge branch 'master' of https://github.com/TdesTouches/projet1_Lamotte_desTouches
+
+commit 07060271aa732ee43c830264aa32d615563c4f35
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:16:25 2018 +0200
+
+    réparation git
+
+commit 90b51c846ac86674d877db105cc8ea4e8158e6d4
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:00:43 2018 +0200
+
+    Update test.h
+
+commit 42f11226677b188d4415c77c402b4dc9c6921010
+Merge: f76d314 7b3c964
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:00:35 2018 +0200
+
+    Merge branch 'master' of https://github.com/TdesTouches/projet1_Lamotte_desTouches
+
+commit f76d314249d8292ab8a29432a8c1c1e5bd4e7155
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 21:59:46 2018 +0200
+
+    Test encore une fois
+    
+    snif
+
+commit 7b3c96438539645b88402f7995124c0f14ef0cc6
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 19:20:25 2018 +0200
+
+    Modifications diverses
+
+commit 07cc30ca597a33c92f5b0bc30d20911fe2779990
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 15:49:48 2018 +0200
+
+    Modification Makefile + ajout librairie à implémenter
+
+commit dc591432eef0193ca97b152122adabc093b76db0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 15:38:56 2018 +0200
+
+    test_encode patch2
+
+commit 4e558d5d2e8e09e92b4c7d9ace6065b1235bbfe2
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 15:22:18 2018 +0200
+
+    test_encode patch1
+
+commit 2fb2c3884943d9c4826cdd9dc05491fbefee83f3
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 14:06:26 2018 +0200
+
+    Test encode
+
+commit 265c89954f309833bff998850e5f9512051e53ce
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 01:46:52 2018 +0200
+
+    debut test encode
+
+commit 4173ab1b49de9c3bdcbbd0c71dcc9d86d37bda0a
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 00:36:35 2018 +0200
+
+    suppression doublon
+
+commit cbab557604d94fcc58e1485433e60ec15158ee3d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 00:01:43 2018 +0200
+
+    tests get set OK
+    
+    fin des tests get sets, application de ceux-ci et correction du code en conséquence.
+
+commit 401a2b91e047e2b47dc5e7e0297f36e5eaa3a199
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 23:32:38 2018 +0200
+
+    Implémentation complète de chat.c
+
+commit 6eed061dc738016fc41eb104e9ec407501b8694e
+Merge: 5a0790c 5f60d7b
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:35:56 2018 +0200
+
+    Modifications Makefile
+
+commit 5a0790cb9abef9a925fe98944ba8ed0490278440
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:32:54 2018 +0200
+
+    Modifications Makefile
+
+commit 9189537a2c885ce33f5dca5d9f239ec5a8d48ed4
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:32:14 2018 +0200
+
+    Modifications Makefile
+
+commit 5f60d7b2dd71f198395608be88e35e801f2600ca
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:20:31 2018 +0200
+
+    retour à la ligne
+
+commit ed2965bc87dd065efbc054ba001b53cb9301833d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:17:55 2018 +0200
+
+    test correction 2
+
+commit 5b489aceb94bd11c29683b700b25c46077a00a63
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:14:20 2018 +0200
+
+    Corection tests
+
+commit e9c13368a56ab3c0f76e387bcceb2697a561f319
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:04:28 2018 +0200
+
+    Ajout Makefile basique
+
+commit e4628e521cde6d669e1a554da35ce93d9b77907d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 21:25:16 2018 +0200
+
+    Tests : get set
+
+commit 6d29d59cabdacde8478ec595d7930503070384b7
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Mon Oct 15 21:33:53 2018 +0200
+
+    Implémentation de 'read_write_loop' inspiré de developpez.com
+
+commit e662fca1935ce4ef9f1ea74bbe7941601732cce0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 15 12:15:04 2018 +0200
+
+    Début tests : non opérationnel
+
+commit 9679567184081f154fa4dbe36b933963db88d2a3
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 17:10:31 2018 +0200
+
+    Correction des bug des sous-questions 1 et 2
+
+commit 81f95a93a227019a8e31a4a95a6e0421cdd8e05a
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 16:32:06 2018 +0200
+
+    Compilation ok
+    
+    Penser à ajouter -lz au linker
+
+commit a8c3c4018e5b7ecef0981273979459e2feb7a690
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 15:53:45 2018 +0200
+
+    Ajout 'Envoyer et recevoir des données' ainsi que première implémentation des 2 premières sous-questions
+
+commit 9447826e8f330c201b445c683f8808b5840b5c82
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 15:46:37 2018 +0200
+
+    Ajout parenthèse manquante
+
+commit 5d27a2d39c92091f84804818585560101b7ac61d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 15:13:16 2018 +0200
+
+    Patch encode decode
+    
+    Correction de la plupart des erreurs de compilation. Inginious n'accepte cependant pas la manière dont on implémente "l'interface"
+
+commit 3b9e8c9eef33b4d9a68624d7e3811a166fd9cf74
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 12:26:27 2018 +0200
+
+    pkt_decode
+    
+    fonction decode, à vérifier
+
+commit 108a3e842d5c80952a3a977b8caa0afdd0fdad27
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 13 09:06:50 2018 +0200
+
+    pkt_encode
+    
+    première mouture de la fonction pkt_encode, il faut encore vérifer qu'elle fonctionne correctement.
+
+commit a872f16277c22c840884b9e1ac4dc8c571f7c8da
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Oct 12 15:35:13 2018 +0200
+
+    segment : get-set
+
+commit 6ad0dd2b29876cbb65998b841e69c133afa57564
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 11 21:12:32 2018 +0200
+
+    Hello world
+    
+    Fichiers de base présent sur inginious
+
+commit 5ae98aea8ce6857d47787e13d694c9022c820be4
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 11 21:08:14 2018 +0200
+
+    Initial commit
+commit ae9a964f131e7f5ac0c73ab320c68f753eeba570
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 11:03:09 2018 +0100
+
+    Deconnexion sender en partiel
+
+commit 11c5f3740bfb3854185a73e0a7362df0469ea23a
+Author: Thomas des Touches <tdestouches@grievous.info.ucl.ac.be>
+Date:   Fri Nov 2 10:58:19 2018 +0100
+
+    Tests : ajout fonctions de test sur pointeurs
+
+commit 97253347074f1f79dabf1ec5dd6ac00944228cc6
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 10:29:35 2018 +0100
+
+    Derniere version
+
+commit 7a20ca711705ab6d9461a9f1c32c28a23da99763
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Nov 2 01:37:28 2018 +0100
+
+    Ca fonctiooooooonne
+    
+    youpi.
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit eb6fec20d35eff5174640789885d029e0f398bc5
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 22:35:22 2018 +0100
+
+    Localhost: OK
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit c6c339e5ed36c30f8f771f6c8704f06bd22e00fe
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 18:10:14 2018 +0100
+
+    Débugage tests + résolution partiel receiver
+    
+    Window: OK
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit 25a2bbb0f6e898929a9244cfd55930e84db8d6dd
+Author: Pierre Lamotte <Barracuda@wifi-student5-79.sri.ucl.ac.be>
+Date:   Thu Nov 1 13:47:05 2018 +0100
+
+    Attente a l'ecriture sur le socket [sender] ; rectification bug poll [receiver]
+
+commit b1058811ce695e7f47a67a7d5fff532f0b0a0fbd
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 00:14:01 2018 +0100
+
+    Tests pkt : OK!
+
+commit 69e8040630d0f3d2385eadc455de687237ae2ce0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:44:09 2018 +0100
+
+    poursuite tests
+
+commit d120ee33ee2f8338c52fb5f23b64532eebe7f82e
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:10:32 2018 +0100
+
+    bye bye queues
+
+commit cca322f90f9c863c054d7384b1f072c0bc7edbfc
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:09:32 2018 +0100
+
+    Github réparé
+
+commit ba10e2ca3bd2ac11fe4d03de457b387d1a5f6182
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 19:04:49 2018 +0100
+
+    Remplacement dossier src/
+
+commit b67744300c79aab862d97c4020f0ae57b43d7a72
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:02:47 2018 +0100
+
+    Restauration git
+
+commit 6def53c9db1f189b5ef38f90d7aa55f731c29217
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:00:27 2018 +0100
+
+    Revert "Debuggage receiver"
+    
+    This reverts commit 5ad3a2fffac19566f605108f7447ff3146a5e140, reversing
+    changes made to d602db7f7d88b3b48f78cdcc955a9e723f308fa3.
+
+commit 1612f3d5e4d52594fb1244a69d89e83d7aa964ea
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:00:16 2018 +0100
+
+    Revert "Debuggage receiver"
+    
+    This reverts commit cf8b6405aca4c11c50f16b65d3baa62c4a1187c9, reversing
+    changes made to 5ad3a2fffac19566f605108f7447ff3146a5e140.
+
+commit cf8b6405aca4c11c50f16b65d3baa62c4a1187c9
+Merge: 5ad3a2f 7c2f508
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 18:49:51 2018 +0100
+
+    Debuggage receiver
+
+commit 5ad3a2fffac19566f605108f7447ff3146a5e140
+Merge: d602db7 faeaabc
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 18:48:13 2018 +0100
+
+    Debuggage receiver
+
+commit 7c2f508271adfa4e5b5ea271ff3416aced87c888
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 18:42:44 2018 +0100
+
+    Tests supplémentaires
+
+commit f35bc58c9c46be9fda727c5db3d0f09d1ce1e1ad
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 13:06:17 2018 +0100
+
+    Tests window
+    
+    J'ai ajouté une suite de tests sur la fenêtre.
+
+commit 5ee76a25675a6acea2133c3b0beb0d542255269f
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 30 23:07:21 2018 +0100
+
+    Debugage de l'espoir qui renait
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit cbe6cb245199ae0c4197591136ca3769b92455fb
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 30 20:35:45 2018 +0100
+
+    .
+
+commit d602db7f7d88b3b48f78cdcc955a9e723f308fa3
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 27 14:17:15 2018 +0200
+
+    Tentative d'ajustement d'erreurs dans sender.c
+
+commit faeaabcc3c24b2ff154aca12c450c47d585c9712
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 27 12:30:01 2018 +0200
+
+    Sender (sans selective repeat)
+
+commit 76b3e883a719314c6b5d4a9663daa6bcaff9dd10
+Author: Pierre Lamotte <Barracuda@pierres-air.home>
+Date:   Fri Oct 26 21:28:33 2018 +0200
+
+    Suppression recvfrom et ajustements
+
+commit 12159074b6409f87c0431b4048321fdd10db28f1
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 26 17:16:58 2018 +0200
+
+    Boucle d'attente de client modifiee mais recvfrom pose probleme
+
+commit c1b464d9fb05157db49c096862a1283d5e0a926b
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:32:59 2018 +0200
+
+    Modification de la taille des arguments du sender
+
+commit 37d488e1a9204771e426d9eea3af3fb04ff613f7
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:14:50 2018 +0200
+
+    Suppression executables et objets
+
+commit 54b9aa2db25088bbb5b3e41de5ca1239488826f2
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:13:24 2018 +0200
+
+    Correction makefiles
+
+commit bc9390b55b9b623a10423d6f41fa21e4fdf464d8
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:39:13 2018 +0200
+
+    Utilisation pollret dans sender.c
+
+commit 336a2b8c020371a5fb0c94385c4f9f811076bbaa
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:34:22 2018 +0200
+
+    Suppression fichiers.o et executables
+
+commit c52d891aa6669be622a8c03b83d9f39c5a167066
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:32:06 2018 +0200
+
+    Rectification d'erreurs
+
+commit 125451fc044834ec959f0e4879f7a8432f921e67
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 04:56:01 2018 +0200
+
+    win_new
+
+commit 347ccb602018aec7020f0a61b95c76c4bddfca56
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 04:47:43 2018 +0200
+
+    Peaufinement + fichier erreurs
+
+commit b9673e8f2b66fc463743220401c70e00be0f117b
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 04:44:07 2018 +0200
+
+    window header
+
+commit 71e456b8947d93a4fdf4d0c4467c94f4247bf65f
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 03:20:51 2018 +0200
+
+    Sender, fenêtre d'envoi, temps et next
+
+commit 7fff79173432d9a924aa7e97334fc239fa26eb55
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 03:07:52 2018 +0200
+
+    Finalisation deconnexion receiver
+
+commit e5845ef0eff21de5535a22b11b6f3a7f9595ac8d
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 02:38:20 2018 +0200
+
+    Regroupement interface reseau et implementation deconnexion receiver
+
+commit ef068ed88b463a5b96af80aeff48d42794e85aa3
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Sun Oct 21 22:41:31 2018 +0200
+
+    Legeres modifications pour plus de comprehensibilite
+
+commit 1bfd1f9c7b83df9875ff75fa3cd01beb77a839b9
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 21 15:19:50 2018 +0200
+
+    Sender suite
+
+commit 8b943fdcf4f0479a7c2d7ecbcf6bbe6a35706ece
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 21 12:16:30 2018 +0200
+
+    Debut boucle
+
+commit fec46533cd1e820a0f5aa12df4cdd621934eeac5
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sun Oct 21 01:58:42 2018 +0200
+
+    Debut traitement communication receiver.c et ajout methode dans receiver.h
+
+commit 7ac03802ff836c9f35131fc52ca81d4fca7edace
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 23:55:49 2018 +0200
+
+    Tout pour aujourd'hui
+
+commit dc0e10f842e9d93cbb3b10ab0e6b8786f7f23776
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 16:11:26 2018 +0200
+
+    Sauvegarde sender.c
+
+commit 3561d3f648e0aa7024d731ac970ae28eb6098c94
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 16:06:08 2018 +0200
+
+    Receiver
+
+commit 556e43ea08b12385b2d05299681357eeb74414f1
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 14:47:23 2018 +0200
+
+    Suppression des fichiers objets et de l'executable
+
+commit 0b54fca11a02ca1a88ec765bbf18a621bf2701d3
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 14:40:19 2018 +0200
+
+    Initialisation de la connextion cote serveur
+
+commit 8b967a84c30f249f405a944a435384a9668d5a15
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 13:03:52 2018 +0200
+
+    Remise de receiver.c
+
+commit 92dff86774785134ca1fcc2d9a976c6d95e7f3ba
+Merge: 3044d5a 2a1ba13
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 13:00:51 2018 +0200
+
+    Legeres modifications
+
+commit 3044d5a4982ad7497ea5deaa55036febca7fcd68
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 12:56:34 2018 +0200
+
+    Legeres modifications
+
+commit 2a1ba1378b3117aa6e416d387967c95f69b96a52
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 12:52:28 2018 +0200
+
+    output file in receiver
+
+commit 3279938c74f8af9c401b1f5a36cd0abf97479b6c
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 12:36:30 2018 +0200
+
+    Receiver arguments
+
+commit d449f8b64aee565a8ea547cf437c180b174347bb
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 03:18:40 2018 +0200
+
+    Suppression des objets issus de make
+
+commit 8f6685937c62bb98a636838497481b6a5ea07797
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 03:12:47 2018 +0200
+
+    Implementation de tests a verifier
+
+commit 918cf451681539d23296e8839a0716906c474aad
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 01:52:29 2018 +0200
+
+    packet_implem.c OK
+
+commit db05a0281ccd961bd7cdc7c72580d15ebb59ed4b
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 22:14:25 2018 +0200
+
+    Sauvegarde
+
+commit 5607d339b422e6f93cdaa507f6405881e003ce07
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 21:01:34 2018 +0200
+
+    Debut implementation sender.c; Ajout de variables globales dans la librairie; Modification des variables globales dans receiver.c
+
+commit 5d94b767f269444f346e9141bd1ad5f5af8ebfd0
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 19:00:30 2018 +0200
+
+    Finalisation librairie: 'real_address()', 'create_socket()', 'wait_for_client()'
+
+commit 9f6eb65584cb0902f4913a8f9c83dd09d9088438
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Oct 19 12:26:41 2018 +0200
+
+    .
+
+commit 20434caf4c6b8365e2fcc0191d98ecb9525d0c21
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 22:33:29 2018 +0200
+
+    receiver et window : suite
+
+commit 1a0707f1d73bd496cca0b0160ace92f1f98f71c3
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 19:59:22 2018 +0200
+
+    begin receiver et window
+
+commit 11ab45df1b32ab380626082851644f723d217685
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 12:35:07 2018 +0200
+
+    début receiver et struct window
+
+commit c364b0ea9718bec20738d3217541f32cf328f0a7
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 02:46:07 2018 +0200
+
+    Encode OK
+
+commit 7a76674dda5308a1ba82dc70abb98650f7472899
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:31:50 2018 +0200
+
+    Re-mise à niveau
+
+commit 27e93b8f25b86a7265c3ccae398a6c5c43468877
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:29:17 2018 +0200
+
+    Reparation, on espère
+
+commit 26c5f8972712f781959db6d1942e017e4f8f1057
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:27:29 2018 +0200
+
+    Mise a niveau
+
+commit 1afaa369661a830dc21314aaaf6a6cca6916b659
+Merge: 8d76286 f4215c3
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:27:10 2018 +0200
+
+    Mise a niveau
+
+commit 8d762869bf5f413267e8e681bedb1453fc466db5
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:20:32 2018 +0200
+
+    Mise à niveau
+
+commit f4215c33a54c01d428663f9d105edb6cb0358fb8
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:17:55 2018 +0200
+
+    Update test.h
+
+commit 9a891cb75f26a4f3bc4e9c1fc07d4976b6595925
+Merge: 0706027 90b51c8
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:17:38 2018 +0200
+
+    Merge branch 'master' of https://github.com/TdesTouches/projet1_Lamotte_desTouches
+
+commit 07060271aa732ee43c830264aa32d615563c4f35
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:16:25 2018 +0200
+
+    réparation git
+
+commit 90b51c846ac86674d877db105cc8ea4e8158e6d4
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:00:43 2018 +0200
+
+    Update test.h
+
+commit 42f11226677b188d4415c77c402b4dc9c6921010
+Merge: f76d314 7b3c964
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:00:35 2018 +0200
+
+    Merge branch 'master' of https://github.com/TdesTouches/projet1_Lamotte_desTouches
+
+commit f76d314249d8292ab8a29432a8c1c1e5bd4e7155
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 21:59:46 2018 +0200
+
+    Test encore une fois
+    
+    snif
+
+commit 7b3c96438539645b88402f7995124c0f14ef0cc6
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 19:20:25 2018 +0200
+
+    Modifications diverses
+
+commit 07cc30ca597a33c92f5b0bc30d20911fe2779990
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 15:49:48 2018 +0200
+
+    Modification Makefile + ajout librairie à implémenter
+
+commit dc591432eef0193ca97b152122adabc093b76db0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 15:38:56 2018 +0200
+
+    test_encode patch2
+
+commit 4e558d5d2e8e09e92b4c7d9ace6065b1235bbfe2
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 15:22:18 2018 +0200
+
+    test_encode patch1
+
+commit 2fb2c3884943d9c4826cdd9dc05491fbefee83f3
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 14:06:26 2018 +0200
+
+    Test encode
+
+commit 265c89954f309833bff998850e5f9512051e53ce
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 01:46:52 2018 +0200
+
+    debut test encode
+
+commit 4173ab1b49de9c3bdcbbd0c71dcc9d86d37bda0a
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 00:36:35 2018 +0200
+
+    suppression doublon
+
+commit cbab557604d94fcc58e1485433e60ec15158ee3d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 00:01:43 2018 +0200
+
+    tests get set OK
+    
+    fin des tests get sets, application de ceux-ci et correction du code en conséquence.
+
+commit 401a2b91e047e2b47dc5e7e0297f36e5eaa3a199
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 23:32:38 2018 +0200
+
+    Implémentation complète de chat.c
+
+commit 6eed061dc738016fc41eb104e9ec407501b8694e
+Merge: 5a0790c 5f60d7b
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:35:56 2018 +0200
+
+    Modifications Makefile
+
+commit 5a0790cb9abef9a925fe98944ba8ed0490278440
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:32:54 2018 +0200
+
+    Modifications Makefile
+
+commit 9189537a2c885ce33f5dca5d9f239ec5a8d48ed4
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:32:14 2018 +0200
+
+    Modifications Makefile
+
+commit 5f60d7b2dd71f198395608be88e35e801f2600ca
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:20:31 2018 +0200
+
+    retour à la ligne
+
+commit ed2965bc87dd065efbc054ba001b53cb9301833d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:17:55 2018 +0200
+
+    test correction 2
+
+commit 5b489aceb94bd11c29683b700b25c46077a00a63
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:14:20 2018 +0200
+
+    Corection tests
+
+commit e9c13368a56ab3c0f76e387bcceb2697a561f319
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:04:28 2018 +0200
+
+    Ajout Makefile basique
+
+commit e4628e521cde6d669e1a554da35ce93d9b77907d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 21:25:16 2018 +0200
+
+    Tests : get set
+
+commit 6d29d59cabdacde8478ec595d7930503070384b7
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Mon Oct 15 21:33:53 2018 +0200
+
+    Implémentation de 'read_write_loop' inspiré de developpez.com
+
+commit e662fca1935ce4ef9f1ea74bbe7941601732cce0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 15 12:15:04 2018 +0200
+
+    Début tests : non opérationnel
+
+commit 9679567184081f154fa4dbe36b933963db88d2a3
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 17:10:31 2018 +0200
+
+    Correction des bug des sous-questions 1 et 2
+
+commit 81f95a93a227019a8e31a4a95a6e0421cdd8e05a
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 16:32:06 2018 +0200
+
+    Compilation ok
+    
+    Penser à ajouter -lz au linker
+
+commit a8c3c4018e5b7ecef0981273979459e2feb7a690
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 15:53:45 2018 +0200
+
+    Ajout 'Envoyer et recevoir des données' ainsi que première implémentation des 2 premières sous-questions
+
+commit 9447826e8f330c201b445c683f8808b5840b5c82
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 15:46:37 2018 +0200
+
+    Ajout parenthèse manquante
+
+commit 5d27a2d39c92091f84804818585560101b7ac61d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 15:13:16 2018 +0200
+
+    Patch encode decode
+    
+    Correction de la plupart des erreurs de compilation. Inginious n'accepte cependant pas la manière dont on implémente "l'interface"
+
+commit 3b9e8c9eef33b4d9a68624d7e3811a166fd9cf74
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 12:26:27 2018 +0200
+
+    pkt_decode
+    
+    fonction decode, à vérifier
+
+commit 108a3e842d5c80952a3a977b8caa0afdd0fdad27
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 13 09:06:50 2018 +0200
+
+    pkt_encode
+    
+    première mouture de la fonction pkt_encode, il faut encore vérifer qu'elle fonctionne correctement.
+
+commit a872f16277c22c840884b9e1ac4dc8c571f7c8da
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Oct 12 15:35:13 2018 +0200
+
+    segment : get-set
+
+commit 6ad0dd2b29876cbb65998b841e69c133afa57564
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 11 21:12:32 2018 +0200
+
+    Hello world
+    
+    Fichiers de base présent sur inginious
+
+commit 5ae98aea8ce6857d47787e13d694c9022c820be4
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 11 21:08:14 2018 +0200
+
+    Initial commit
+commit dd6e9d6d0418fb5c24ea6beac702f96f65864eaf
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 13:10:07 2018 +0100
+
+    Modifications Makefiles et deconnexion receiver
+
+commit 9e6f08e5e9955f299ce799a1af47dc633cd0ac29
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 12:58:54 2018 +0100
+
+    deconnexion sender
+
+commit 5b47f73ff76a6f0d66564c0c196855b2e072f4b3
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 12:05:04 2018 +0100
+
+    Modifications legeres dans sender
+
+commit b5466c9734893c9fcf69515631f9076812ee8804
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 11:44:37 2018 +0100
+
+    Diverses modifications
+
+commit f73a68c01e979cd2ebe6166f9414b18e9c56ec41
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 11:44:17 2018 +0100
+
+    Diverses modifications
+
+commit ae9a964f131e7f5ac0c73ab320c68f753eeba570
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 11:03:09 2018 +0100
+
+    Deconnexion sender en partiel
+
+commit 11c5f3740bfb3854185a73e0a7362df0469ea23a
+Author: Thomas des Touches <tdestouches@grievous.info.ucl.ac.be>
+Date:   Fri Nov 2 10:58:19 2018 +0100
+
+    Tests : ajout fonctions de test sur pointeurs
+
+commit 97253347074f1f79dabf1ec5dd6ac00944228cc6
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 10:29:35 2018 +0100
+
+    Derniere version
+
+commit 7a20ca711705ab6d9461a9f1c32c28a23da99763
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Nov 2 01:37:28 2018 +0100
+
+    Ca fonctiooooooonne
+    
+    youpi.
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit eb6fec20d35eff5174640789885d029e0f398bc5
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 22:35:22 2018 +0100
+
+    Localhost: OK
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit c6c339e5ed36c30f8f771f6c8704f06bd22e00fe
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 18:10:14 2018 +0100
+
+    Débugage tests + résolution partiel receiver
+    
+    Window: OK
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit 25a2bbb0f6e898929a9244cfd55930e84db8d6dd
+Author: Pierre Lamotte <Barracuda@wifi-student5-79.sri.ucl.ac.be>
+Date:   Thu Nov 1 13:47:05 2018 +0100
+
+    Attente a l'ecriture sur le socket [sender] ; rectification bug poll [receiver]
+
+commit b1058811ce695e7f47a67a7d5fff532f0b0a0fbd
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 00:14:01 2018 +0100
+
+    Tests pkt : OK!
+
+commit 69e8040630d0f3d2385eadc455de687237ae2ce0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:44:09 2018 +0100
+
+    poursuite tests
+
+commit d120ee33ee2f8338c52fb5f23b64532eebe7f82e
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:10:32 2018 +0100
+
+    bye bye queues
+
+commit cca322f90f9c863c054d7384b1f072c0bc7edbfc
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:09:32 2018 +0100
+
+    Github réparé
+
+commit ba10e2ca3bd2ac11fe4d03de457b387d1a5f6182
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 19:04:49 2018 +0100
+
+    Remplacement dossier src/
+
+commit b67744300c79aab862d97c4020f0ae57b43d7a72
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:02:47 2018 +0100
+
+    Restauration git
+
+commit 6def53c9db1f189b5ef38f90d7aa55f731c29217
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:00:27 2018 +0100
+
+    Revert "Debuggage receiver"
+    
+    This reverts commit 5ad3a2fffac19566f605108f7447ff3146a5e140, reversing
+    changes made to d602db7f7d88b3b48f78cdcc955a9e723f308fa3.
+
+commit 1612f3d5e4d52594fb1244a69d89e83d7aa964ea
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:00:16 2018 +0100
+
+    Revert "Debuggage receiver"
+    
+    This reverts commit cf8b6405aca4c11c50f16b65d3baa62c4a1187c9, reversing
+    changes made to 5ad3a2fffac19566f605108f7447ff3146a5e140.
+
+commit cf8b6405aca4c11c50f16b65d3baa62c4a1187c9
+Merge: 5ad3a2f 7c2f508
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 18:49:51 2018 +0100
+
+    Debuggage receiver
+
+commit 5ad3a2fffac19566f605108f7447ff3146a5e140
+Merge: d602db7 faeaabc
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 18:48:13 2018 +0100
+
+    Debuggage receiver
+
+commit 7c2f508271adfa4e5b5ea271ff3416aced87c888
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 18:42:44 2018 +0100
+
+    Tests supplémentaires
+
+commit f35bc58c9c46be9fda727c5db3d0f09d1ce1e1ad
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 13:06:17 2018 +0100
+
+    Tests window
+    
+    J'ai ajouté une suite de tests sur la fenêtre.
+
+commit 5ee76a25675a6acea2133c3b0beb0d542255269f
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 30 23:07:21 2018 +0100
+
+    Debugage de l'espoir qui renait
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit cbe6cb245199ae0c4197591136ca3769b92455fb
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 30 20:35:45 2018 +0100
+
+    .
+
+commit d602db7f7d88b3b48f78cdcc955a9e723f308fa3
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 27 14:17:15 2018 +0200
+
+    Tentative d'ajustement d'erreurs dans sender.c
+
+commit faeaabcc3c24b2ff154aca12c450c47d585c9712
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 27 12:30:01 2018 +0200
+
+    Sender (sans selective repeat)
+
+commit 76b3e883a719314c6b5d4a9663daa6bcaff9dd10
+Author: Pierre Lamotte <Barracuda@pierres-air.home>
+Date:   Fri Oct 26 21:28:33 2018 +0200
+
+    Suppression recvfrom et ajustements
+
+commit 12159074b6409f87c0431b4048321fdd10db28f1
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 26 17:16:58 2018 +0200
+
+    Boucle d'attente de client modifiee mais recvfrom pose probleme
+
+commit c1b464d9fb05157db49c096862a1283d5e0a926b
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:32:59 2018 +0200
+
+    Modification de la taille des arguments du sender
+
+commit 37d488e1a9204771e426d9eea3af3fb04ff613f7
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:14:50 2018 +0200
+
+    Suppression executables et objets
+
+commit 54b9aa2db25088bbb5b3e41de5ca1239488826f2
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:13:24 2018 +0200
+
+    Correction makefiles
+
+commit bc9390b55b9b623a10423d6f41fa21e4fdf464d8
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:39:13 2018 +0200
+
+    Utilisation pollret dans sender.c
+
+commit 336a2b8c020371a5fb0c94385c4f9f811076bbaa
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:34:22 2018 +0200
+
+    Suppression fichiers.o et executables
+
+commit c52d891aa6669be622a8c03b83d9f39c5a167066
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:32:06 2018 +0200
+
+    Rectification d'erreurs
+
+commit 125451fc044834ec959f0e4879f7a8432f921e67
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 04:56:01 2018 +0200
+
+    win_new
+
+commit 347ccb602018aec7020f0a61b95c76c4bddfca56
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 04:47:43 2018 +0200
+
+    Peaufinement + fichier erreurs
+
+commit b9673e8f2b66fc463743220401c70e00be0f117b
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 04:44:07 2018 +0200
+
+    window header
+
+commit 71e456b8947d93a4fdf4d0c4467c94f4247bf65f
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 03:20:51 2018 +0200
+
+    Sender, fenêtre d'envoi, temps et next
+
+commit 7fff79173432d9a924aa7e97334fc239fa26eb55
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 03:07:52 2018 +0200
+
+    Finalisation deconnexion receiver
+
+commit e5845ef0eff21de5535a22b11b6f3a7f9595ac8d
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 02:38:20 2018 +0200
+
+    Regroupement interface reseau et implementation deconnexion receiver
+
+commit ef068ed88b463a5b96af80aeff48d42794e85aa3
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Sun Oct 21 22:41:31 2018 +0200
+
+    Legeres modifications pour plus de comprehensibilite
+
+commit 1bfd1f9c7b83df9875ff75fa3cd01beb77a839b9
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 21 15:19:50 2018 +0200
+
+    Sender suite
+
+commit 8b943fdcf4f0479a7c2d7ecbcf6bbe6a35706ece
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 21 12:16:30 2018 +0200
+
+    Debut boucle
+
+commit fec46533cd1e820a0f5aa12df4cdd621934eeac5
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sun Oct 21 01:58:42 2018 +0200
+
+    Debut traitement communication receiver.c et ajout methode dans receiver.h
+
+commit 7ac03802ff836c9f35131fc52ca81d4fca7edace
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 23:55:49 2018 +0200
+
+    Tout pour aujourd'hui
+
+commit dc0e10f842e9d93cbb3b10ab0e6b8786f7f23776
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 16:11:26 2018 +0200
+
+    Sauvegarde sender.c
+
+commit 3561d3f648e0aa7024d731ac970ae28eb6098c94
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 16:06:08 2018 +0200
+
+    Receiver
+
+commit 556e43ea08b12385b2d05299681357eeb74414f1
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 14:47:23 2018 +0200
+
+    Suppression des fichiers objets et de l'executable
+
+commit 0b54fca11a02ca1a88ec765bbf18a621bf2701d3
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 14:40:19 2018 +0200
+
+    Initialisation de la connextion cote serveur
+
+commit 8b967a84c30f249f405a944a435384a9668d5a15
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 13:03:52 2018 +0200
+
+    Remise de receiver.c
+
+commit 92dff86774785134ca1fcc2d9a976c6d95e7f3ba
+Merge: 3044d5a 2a1ba13
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 13:00:51 2018 +0200
+
+    Legeres modifications
+
+commit 3044d5a4982ad7497ea5deaa55036febca7fcd68
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 12:56:34 2018 +0200
+
+    Legeres modifications
+
+commit 2a1ba1378b3117aa6e416d387967c95f69b96a52
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 12:52:28 2018 +0200
+
+    output file in receiver
+
+commit 3279938c74f8af9c401b1f5a36cd0abf97479b6c
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 12:36:30 2018 +0200
+
+    Receiver arguments
+
+commit d449f8b64aee565a8ea547cf437c180b174347bb
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 03:18:40 2018 +0200
+
+    Suppression des objets issus de make
+
+commit 8f6685937c62bb98a636838497481b6a5ea07797
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 03:12:47 2018 +0200
+
+    Implementation de tests a verifier
+
+commit 918cf451681539d23296e8839a0716906c474aad
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 01:52:29 2018 +0200
+
+    packet_implem.c OK
+
+commit db05a0281ccd961bd7cdc7c72580d15ebb59ed4b
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 22:14:25 2018 +0200
+
+    Sauvegarde
+
+commit 5607d339b422e6f93cdaa507f6405881e003ce07
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 21:01:34 2018 +0200
+
+    Debut implementation sender.c; Ajout de variables globales dans la librairie; Modification des variables globales dans receiver.c
+
+commit 5d94b767f269444f346e9141bd1ad5f5af8ebfd0
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 19:00:30 2018 +0200
+
+    Finalisation librairie: 'real_address()', 'create_socket()', 'wait_for_client()'
+
+commit 9f6eb65584cb0902f4913a8f9c83dd09d9088438
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Oct 19 12:26:41 2018 +0200
+
+    .
+
+commit 20434caf4c6b8365e2fcc0191d98ecb9525d0c21
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 22:33:29 2018 +0200
+
+    receiver et window : suite
+
+commit 1a0707f1d73bd496cca0b0160ace92f1f98f71c3
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 19:59:22 2018 +0200
+
+    begin receiver et window
+
+commit 11ab45df1b32ab380626082851644f723d217685
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 12:35:07 2018 +0200
+
+    début receiver et struct window
+
+commit c364b0ea9718bec20738d3217541f32cf328f0a7
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 02:46:07 2018 +0200
+
+    Encode OK
+
+commit 7a76674dda5308a1ba82dc70abb98650f7472899
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:31:50 2018 +0200
+
+    Re-mise à niveau
+
+commit 27e93b8f25b86a7265c3ccae398a6c5c43468877
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:29:17 2018 +0200
+
+    Reparation, on espère
+
+commit 26c5f8972712f781959db6d1942e017e4f8f1057
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:27:29 2018 +0200
+
+    Mise a niveau
+
+commit 1afaa369661a830dc21314aaaf6a6cca6916b659
+Merge: 8d76286 f4215c3
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:27:10 2018 +0200
+
+    Mise a niveau
+
+commit 8d762869bf5f413267e8e681bedb1453fc466db5
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:20:32 2018 +0200
+
+    Mise à niveau
+
+commit f4215c33a54c01d428663f9d105edb6cb0358fb8
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:17:55 2018 +0200
+
+    Update test.h
+
+commit 9a891cb75f26a4f3bc4e9c1fc07d4976b6595925
+Merge: 0706027 90b51c8
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:17:38 2018 +0200
+
+    Merge branch 'master' of https://github.com/TdesTouches/projet1_Lamotte_desTouches
+
+commit 07060271aa732ee43c830264aa32d615563c4f35
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:16:25 2018 +0200
+
+    réparation git
+
+commit 90b51c846ac86674d877db105cc8ea4e8158e6d4
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:00:43 2018 +0200
+
+    Update test.h
+
+commit 42f11226677b188d4415c77c402b4dc9c6921010
+Merge: f76d314 7b3c964
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:00:35 2018 +0200
+
+    Merge branch 'master' of https://github.com/TdesTouches/projet1_Lamotte_desTouches
+
+commit f76d314249d8292ab8a29432a8c1c1e5bd4e7155
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 21:59:46 2018 +0200
+
+    Test encore une fois
+    
+    snif
+
+commit 7b3c96438539645b88402f7995124c0f14ef0cc6
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 19:20:25 2018 +0200
+
+    Modifications diverses
+
+commit 07cc30ca597a33c92f5b0bc30d20911fe2779990
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 15:49:48 2018 +0200
+
+    Modification Makefile + ajout librairie à implémenter
+
+commit dc591432eef0193ca97b152122adabc093b76db0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 15:38:56 2018 +0200
+
+    test_encode patch2
+
+commit 4e558d5d2e8e09e92b4c7d9ace6065b1235bbfe2
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 15:22:18 2018 +0200
+
+    test_encode patch1
+
+commit 2fb2c3884943d9c4826cdd9dc05491fbefee83f3
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 14:06:26 2018 +0200
+
+    Test encode
+
+commit 265c89954f309833bff998850e5f9512051e53ce
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 01:46:52 2018 +0200
+
+    debut test encode
+
+commit 4173ab1b49de9c3bdcbbd0c71dcc9d86d37bda0a
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 00:36:35 2018 +0200
+
+    suppression doublon
+
+commit cbab557604d94fcc58e1485433e60ec15158ee3d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 00:01:43 2018 +0200
+
+    tests get set OK
+    
+    fin des tests get sets, application de ceux-ci et correction du code en conséquence.
+
+commit 401a2b91e047e2b47dc5e7e0297f36e5eaa3a199
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 23:32:38 2018 +0200
+
+    Implémentation complète de chat.c
+
+commit 6eed061dc738016fc41eb104e9ec407501b8694e
+Merge: 5a0790c 5f60d7b
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:35:56 2018 +0200
+
+    Modifications Makefile
+
+commit 5a0790cb9abef9a925fe98944ba8ed0490278440
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:32:54 2018 +0200
+
+    Modifications Makefile
+
+commit 9189537a2c885ce33f5dca5d9f239ec5a8d48ed4
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:32:14 2018 +0200
+
+    Modifications Makefile
+
+commit 5f60d7b2dd71f198395608be88e35e801f2600ca
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:20:31 2018 +0200
+
+    retour à la ligne
+
+commit ed2965bc87dd065efbc054ba001b53cb9301833d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:17:55 2018 +0200
+
+    test correction 2
+
+commit 5b489aceb94bd11c29683b700b25c46077a00a63
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:14:20 2018 +0200
+
+    Corection tests
+
+commit e9c13368a56ab3c0f76e387bcceb2697a561f319
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:04:28 2018 +0200
+
+    Ajout Makefile basique
+
+commit e4628e521cde6d669e1a554da35ce93d9b77907d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 21:25:16 2018 +0200
+
+    Tests : get set
+
+commit 6d29d59cabdacde8478ec595d7930503070384b7
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Mon Oct 15 21:33:53 2018 +0200
+
+    Implémentation de 'read_write_loop' inspiré de developpez.com
+
+commit e662fca1935ce4ef9f1ea74bbe7941601732cce0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 15 12:15:04 2018 +0200
+
+    Début tests : non opérationnel
+
+commit 9679567184081f154fa4dbe36b933963db88d2a3
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 17:10:31 2018 +0200
+
+    Correction des bug des sous-questions 1 et 2
+
+commit 81f95a93a227019a8e31a4a95a6e0421cdd8e05a
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 16:32:06 2018 +0200
+
+    Compilation ok
+    
+    Penser à ajouter -lz au linker
+
+commit a8c3c4018e5b7ecef0981273979459e2feb7a690
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 15:53:45 2018 +0200
+
+    Ajout 'Envoyer et recevoir des données' ainsi que première implémentation des 2 premières sous-questions
+
+commit 9447826e8f330c201b445c683f8808b5840b5c82
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 15:46:37 2018 +0200
+
+    Ajout parenthèse manquante
+
+commit 5d27a2d39c92091f84804818585560101b7ac61d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 15:13:16 2018 +0200
+
+    Patch encode decode
+    
+    Correction de la plupart des erreurs de compilation. Inginious n'accepte cependant pas la manière dont on implémente "l'interface"
+
+commit 3b9e8c9eef33b4d9a68624d7e3811a166fd9cf74
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 12:26:27 2018 +0200
+
+    pkt_decode
+    
+    fonction decode, à vérifier
+
+commit 108a3e842d5c80952a3a977b8caa0afdd0fdad27
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 13 09:06:50 2018 +0200
+
+    pkt_encode
+    
+    première mouture de la fonction pkt_encode, il faut encore vérifer qu'elle fonctionne correctement.
+
+commit a872f16277c22c840884b9e1ac4dc8c571f7c8da
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Oct 12 15:35:13 2018 +0200
+
+    segment : get-set
+
+commit 6ad0dd2b29876cbb65998b841e69c133afa57564
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 11 21:12:32 2018 +0200
+
+    Hello world
+    
+    Fichiers de base présent sur inginious
+
+commit 5ae98aea8ce6857d47787e13d694c9022c820be4
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 11 21:08:14 2018 +0200
+
+    Initial commit
+commit 81a44ba87ff6808cb8ee7af2b376bb10a81cb7e6
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 18:29:22 2018 +0100
+
+    Finalisation connexion sender
+
+commit 2af4496087940d91251a7bc9fd62359c948df738
+Merge: d0ba08f 39675c1
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 18:08:08 2018 +0100
+
+    merge
+
+commit d0ba08f2a2854f3da8abc6ce189d44eb3d64fb6f
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 18:04:25 2018 +0100
+
+    Grosses modifications sur sender
+
+commit 39675c107c3f61616aa64a9b9354c7af282be8e3
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 18:01:54 2018 +0100
+
+    Legeres modifications
+
+commit 04c0211e66672cb60bddfef348abd0ac298f8b13
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 17:50:18 2018 +0100
+
+    Receiver cloture
+
+commit b605256bebcf48818bd22817377c8747fb7d3438
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 15:38:35 2018 +0100
+
+    sender
+
+commit 372bce6096406f7ca9ac09aee1291389c35d1de5
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 15:37:19 2018 +0100
+
+    Signaletique des problemes receiver
+
+commit 75a2e560f4d19c3ac98ec41fc47a21d3a39e5986
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 15:01:07 2018 +0100
+
+    Ajustement Makefile principal
+
+commit 71b4249913bd37c2b521af2c12b3b453610ddc8d
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 14:12:01 2018 +0100
+
+    petite modif sender.c
+
+commit ca0096e3c8726115d653cbc0a04b47974e29ddf6
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 14:09:22 2018 +0100
+
+    Adaptation deconnection receiver
+
+commit dd6e9d6d0418fb5c24ea6beac702f96f65864eaf
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 13:10:07 2018 +0100
+
+    Modifications Makefiles et deconnexion receiver
+
+commit 9e6f08e5e9955f299ce799a1af47dc633cd0ac29
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 12:58:54 2018 +0100
+
+    deconnexion sender
+
+commit 5b47f73ff76a6f0d66564c0c196855b2e072f4b3
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 12:05:04 2018 +0100
+
+    Modifications legeres dans sender
+
+commit b5466c9734893c9fcf69515631f9076812ee8804
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 11:44:37 2018 +0100
+
+    Diverses modifications
+
+commit f73a68c01e979cd2ebe6166f9414b18e9c56ec41
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 11:44:17 2018 +0100
+
+    Diverses modifications
+
+commit ae9a964f131e7f5ac0c73ab320c68f753eeba570
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 11:03:09 2018 +0100
+
+    Deconnexion sender en partiel
+
+commit 11c5f3740bfb3854185a73e0a7362df0469ea23a
+Author: Thomas des Touches <tdestouches@grievous.info.ucl.ac.be>
+Date:   Fri Nov 2 10:58:19 2018 +0100
+
+    Tests : ajout fonctions de test sur pointeurs
+
+commit 97253347074f1f79dabf1ec5dd6ac00944228cc6
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 10:29:35 2018 +0100
+
+    Derniere version
+
+commit 7a20ca711705ab6d9461a9f1c32c28a23da99763
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Nov 2 01:37:28 2018 +0100
+
+    Ca fonctiooooooonne
+    
+    youpi.
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit eb6fec20d35eff5174640789885d029e0f398bc5
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 22:35:22 2018 +0100
+
+    Localhost: OK
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit c6c339e5ed36c30f8f771f6c8704f06bd22e00fe
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 18:10:14 2018 +0100
+
+    Débugage tests + résolution partiel receiver
+    
+    Window: OK
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit 25a2bbb0f6e898929a9244cfd55930e84db8d6dd
+Author: Pierre Lamotte <Barracuda@wifi-student5-79.sri.ucl.ac.be>
+Date:   Thu Nov 1 13:47:05 2018 +0100
+
+    Attente a l'ecriture sur le socket [sender] ; rectification bug poll [receiver]
+
+commit b1058811ce695e7f47a67a7d5fff532f0b0a0fbd
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 00:14:01 2018 +0100
+
+    Tests pkt : OK!
+
+commit 69e8040630d0f3d2385eadc455de687237ae2ce0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:44:09 2018 +0100
+
+    poursuite tests
+
+commit d120ee33ee2f8338c52fb5f23b64532eebe7f82e
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:10:32 2018 +0100
+
+    bye bye queues
+
+commit cca322f90f9c863c054d7384b1f072c0bc7edbfc
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:09:32 2018 +0100
+
+    Github réparé
+
+commit ba10e2ca3bd2ac11fe4d03de457b387d1a5f6182
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 19:04:49 2018 +0100
+
+    Remplacement dossier src/
+
+commit b67744300c79aab862d97c4020f0ae57b43d7a72
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:02:47 2018 +0100
+
+    Restauration git
+
+commit 6def53c9db1f189b5ef38f90d7aa55f731c29217
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:00:27 2018 +0100
+
+    Revert "Debuggage receiver"
+    
+    This reverts commit 5ad3a2fffac19566f605108f7447ff3146a5e140, reversing
+    changes made to d602db7f7d88b3b48f78cdcc955a9e723f308fa3.
+
+commit 1612f3d5e4d52594fb1244a69d89e83d7aa964ea
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:00:16 2018 +0100
+
+    Revert "Debuggage receiver"
+    
+    This reverts commit cf8b6405aca4c11c50f16b65d3baa62c4a1187c9, reversing
+    changes made to 5ad3a2fffac19566f605108f7447ff3146a5e140.
+
+commit cf8b6405aca4c11c50f16b65d3baa62c4a1187c9
+Merge: 5ad3a2f 7c2f508
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 18:49:51 2018 +0100
+
+    Debuggage receiver
+
+commit 5ad3a2fffac19566f605108f7447ff3146a5e140
+Merge: d602db7 faeaabc
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 18:48:13 2018 +0100
+
+    Debuggage receiver
+
+commit 7c2f508271adfa4e5b5ea271ff3416aced87c888
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 18:42:44 2018 +0100
+
+    Tests supplémentaires
+
+commit f35bc58c9c46be9fda727c5db3d0f09d1ce1e1ad
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 13:06:17 2018 +0100
+
+    Tests window
+    
+    J'ai ajouté une suite de tests sur la fenêtre.
+
+commit 5ee76a25675a6acea2133c3b0beb0d542255269f
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 30 23:07:21 2018 +0100
+
+    Debugage de l'espoir qui renait
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit cbe6cb245199ae0c4197591136ca3769b92455fb
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 30 20:35:45 2018 +0100
+
+    .
+
+commit d602db7f7d88b3b48f78cdcc955a9e723f308fa3
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 27 14:17:15 2018 +0200
+
+    Tentative d'ajustement d'erreurs dans sender.c
+
+commit faeaabcc3c24b2ff154aca12c450c47d585c9712
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 27 12:30:01 2018 +0200
+
+    Sender (sans selective repeat)
+
+commit 76b3e883a719314c6b5d4a9663daa6bcaff9dd10
+Author: Pierre Lamotte <Barracuda@pierres-air.home>
+Date:   Fri Oct 26 21:28:33 2018 +0200
+
+    Suppression recvfrom et ajustements
+
+commit 12159074b6409f87c0431b4048321fdd10db28f1
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 26 17:16:58 2018 +0200
+
+    Boucle d'attente de client modifiee mais recvfrom pose probleme
+
+commit c1b464d9fb05157db49c096862a1283d5e0a926b
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:32:59 2018 +0200
+
+    Modification de la taille des arguments du sender
+
+commit 37d488e1a9204771e426d9eea3af3fb04ff613f7
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:14:50 2018 +0200
+
+    Suppression executables et objets
+
+commit 54b9aa2db25088bbb5b3e41de5ca1239488826f2
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:13:24 2018 +0200
+
+    Correction makefiles
+
+commit bc9390b55b9b623a10423d6f41fa21e4fdf464d8
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:39:13 2018 +0200
+
+    Utilisation pollret dans sender.c
+
+commit 336a2b8c020371a5fb0c94385c4f9f811076bbaa
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:34:22 2018 +0200
+
+    Suppression fichiers.o et executables
+
+commit c52d891aa6669be622a8c03b83d9f39c5a167066
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:32:06 2018 +0200
+
+    Rectification d'erreurs
+
+commit 125451fc044834ec959f0e4879f7a8432f921e67
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 04:56:01 2018 +0200
+
+    win_new
+
+commit 347ccb602018aec7020f0a61b95c76c4bddfca56
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 04:47:43 2018 +0200
+
+    Peaufinement + fichier erreurs
+
+commit b9673e8f2b66fc463743220401c70e00be0f117b
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 04:44:07 2018 +0200
+
+    window header
+
+commit 71e456b8947d93a4fdf4d0c4467c94f4247bf65f
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 03:20:51 2018 +0200
+
+    Sender, fenêtre d'envoi, temps et next
+
+commit 7fff79173432d9a924aa7e97334fc239fa26eb55
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 03:07:52 2018 +0200
+
+    Finalisation deconnexion receiver
+
+commit e5845ef0eff21de5535a22b11b6f3a7f9595ac8d
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 02:38:20 2018 +0200
+
+    Regroupement interface reseau et implementation deconnexion receiver
+
+commit ef068ed88b463a5b96af80aeff48d42794e85aa3
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Sun Oct 21 22:41:31 2018 +0200
+
+    Legeres modifications pour plus de comprehensibilite
+
+commit 1bfd1f9c7b83df9875ff75fa3cd01beb77a839b9
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 21 15:19:50 2018 +0200
+
+    Sender suite
+
+commit 8b943fdcf4f0479a7c2d7ecbcf6bbe6a35706ece
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 21 12:16:30 2018 +0200
+
+    Debut boucle
+
+commit fec46533cd1e820a0f5aa12df4cdd621934eeac5
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sun Oct 21 01:58:42 2018 +0200
+
+    Debut traitement communication receiver.c et ajout methode dans receiver.h
+
+commit 7ac03802ff836c9f35131fc52ca81d4fca7edace
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 23:55:49 2018 +0200
+
+    Tout pour aujourd'hui
+
+commit dc0e10f842e9d93cbb3b10ab0e6b8786f7f23776
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 16:11:26 2018 +0200
+
+    Sauvegarde sender.c
+
+commit 3561d3f648e0aa7024d731ac970ae28eb6098c94
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 16:06:08 2018 +0200
+
+    Receiver
+
+commit 556e43ea08b12385b2d05299681357eeb74414f1
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 14:47:23 2018 +0200
+
+    Suppression des fichiers objets et de l'executable
+
+commit 0b54fca11a02ca1a88ec765bbf18a621bf2701d3
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 14:40:19 2018 +0200
+
+    Initialisation de la connextion cote serveur
+
+commit 8b967a84c30f249f405a944a435384a9668d5a15
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 13:03:52 2018 +0200
+
+    Remise de receiver.c
+
+commit 92dff86774785134ca1fcc2d9a976c6d95e7f3ba
+Merge: 3044d5a 2a1ba13
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 13:00:51 2018 +0200
+
+    Legeres modifications
+
+commit 3044d5a4982ad7497ea5deaa55036febca7fcd68
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 12:56:34 2018 +0200
+
+    Legeres modifications
+
+commit 2a1ba1378b3117aa6e416d387967c95f69b96a52
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 12:52:28 2018 +0200
+
+    output file in receiver
+
+commit 3279938c74f8af9c401b1f5a36cd0abf97479b6c
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 12:36:30 2018 +0200
+
+    Receiver arguments
+
+commit d449f8b64aee565a8ea547cf437c180b174347bb
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 03:18:40 2018 +0200
+
+    Suppression des objets issus de make
+
+commit 8f6685937c62bb98a636838497481b6a5ea07797
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 03:12:47 2018 +0200
+
+    Implementation de tests a verifier
+
+commit 918cf451681539d23296e8839a0716906c474aad
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 01:52:29 2018 +0200
+
+    packet_implem.c OK
+
+commit db05a0281ccd961bd7cdc7c72580d15ebb59ed4b
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 22:14:25 2018 +0200
+
+    Sauvegarde
+
+commit 5607d339b422e6f93cdaa507f6405881e003ce07
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 21:01:34 2018 +0200
+
+    Debut implementation sender.c; Ajout de variables globales dans la librairie; Modification des variables globales dans receiver.c
+
+commit 5d94b767f269444f346e9141bd1ad5f5af8ebfd0
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 19:00:30 2018 +0200
+
+    Finalisation librairie: 'real_address()', 'create_socket()', 'wait_for_client()'
+
+commit 9f6eb65584cb0902f4913a8f9c83dd09d9088438
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Oct 19 12:26:41 2018 +0200
+
+    .
+
+commit 20434caf4c6b8365e2fcc0191d98ecb9525d0c21
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 22:33:29 2018 +0200
+
+    receiver et window : suite
+
+commit 1a0707f1d73bd496cca0b0160ace92f1f98f71c3
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 19:59:22 2018 +0200
+
+    begin receiver et window
+
+commit 11ab45df1b32ab380626082851644f723d217685
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 12:35:07 2018 +0200
+
+    début receiver et struct window
+
+commit c364b0ea9718bec20738d3217541f32cf328f0a7
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 02:46:07 2018 +0200
+
+    Encode OK
+
+commit 7a76674dda5308a1ba82dc70abb98650f7472899
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:31:50 2018 +0200
+
+    Re-mise à niveau
+
+commit 27e93b8f25b86a7265c3ccae398a6c5c43468877
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:29:17 2018 +0200
+
+    Reparation, on espère
+
+commit 26c5f8972712f781959db6d1942e017e4f8f1057
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:27:29 2018 +0200
+
+    Mise a niveau
+
+commit 1afaa369661a830dc21314aaaf6a6cca6916b659
+Merge: 8d76286 f4215c3
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:27:10 2018 +0200
+
+    Mise a niveau
+
+commit 8d762869bf5f413267e8e681bedb1453fc466db5
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:20:32 2018 +0200
+
+    Mise à niveau
+
+commit f4215c33a54c01d428663f9d105edb6cb0358fb8
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:17:55 2018 +0200
+
+    Update test.h
+
+commit 9a891cb75f26a4f3bc4e9c1fc07d4976b6595925
+Merge: 0706027 90b51c8
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:17:38 2018 +0200
+
+    Merge branch 'master' of https://github.com/TdesTouches/projet1_Lamotte_desTouches
+
+commit 07060271aa732ee43c830264aa32d615563c4f35
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:16:25 2018 +0200
+
+    réparation git
+
+commit 90b51c846ac86674d877db105cc8ea4e8158e6d4
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:00:43 2018 +0200
+
+    Update test.h
+
+commit 42f11226677b188d4415c77c402b4dc9c6921010
+Merge: f76d314 7b3c964
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:00:35 2018 +0200
+
+    Merge branch 'master' of https://github.com/TdesTouches/projet1_Lamotte_desTouches
+
+commit f76d314249d8292ab8a29432a8c1c1e5bd4e7155
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 21:59:46 2018 +0200
+
+    Test encore une fois
+    
+    snif
+
+commit 7b3c96438539645b88402f7995124c0f14ef0cc6
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 19:20:25 2018 +0200
+
+    Modifications diverses
+
+commit 07cc30ca597a33c92f5b0bc30d20911fe2779990
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 15:49:48 2018 +0200
+
+    Modification Makefile + ajout librairie à implémenter
+
+commit dc591432eef0193ca97b152122adabc093b76db0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 15:38:56 2018 +0200
+
+    test_encode patch2
+
+commit 4e558d5d2e8e09e92b4c7d9ace6065b1235bbfe2
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 15:22:18 2018 +0200
+
+    test_encode patch1
+
+commit 2fb2c3884943d9c4826cdd9dc05491fbefee83f3
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 14:06:26 2018 +0200
+
+    Test encode
+
+commit 265c89954f309833bff998850e5f9512051e53ce
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 01:46:52 2018 +0200
+
+    debut test encode
+
+commit 4173ab1b49de9c3bdcbbd0c71dcc9d86d37bda0a
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 00:36:35 2018 +0200
+
+    suppression doublon
+
+commit cbab557604d94fcc58e1485433e60ec15158ee3d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 00:01:43 2018 +0200
+
+    tests get set OK
+    
+    fin des tests get sets, application de ceux-ci et correction du code en conséquence.
+
+commit 401a2b91e047e2b47dc5e7e0297f36e5eaa3a199
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 23:32:38 2018 +0200
+
+    Implémentation complète de chat.c
+
+commit 6eed061dc738016fc41eb104e9ec407501b8694e
+Merge: 5a0790c 5f60d7b
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:35:56 2018 +0200
+
+    Modifications Makefile
+
+commit 5a0790cb9abef9a925fe98944ba8ed0490278440
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:32:54 2018 +0200
+
+    Modifications Makefile
+
+commit 9189537a2c885ce33f5dca5d9f239ec5a8d48ed4
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:32:14 2018 +0200
+
+    Modifications Makefile
+
+commit 5f60d7b2dd71f198395608be88e35e801f2600ca
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:20:31 2018 +0200
+
+    retour à la ligne
+
+commit ed2965bc87dd065efbc054ba001b53cb9301833d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:17:55 2018 +0200
+
+    test correction 2
+
+commit 5b489aceb94bd11c29683b700b25c46077a00a63
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:14:20 2018 +0200
+
+    Corection tests
+
+commit e9c13368a56ab3c0f76e387bcceb2697a561f319
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:04:28 2018 +0200
+
+    Ajout Makefile basique
+
+commit e4628e521cde6d669e1a554da35ce93d9b77907d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 21:25:16 2018 +0200
+
+    Tests : get set
+
+commit 6d29d59cabdacde8478ec595d7930503070384b7
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Mon Oct 15 21:33:53 2018 +0200
+
+    Implémentation de 'read_write_loop' inspiré de developpez.com
+
+commit e662fca1935ce4ef9f1ea74bbe7941601732cce0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 15 12:15:04 2018 +0200
+
+    Début tests : non opérationnel
+
+commit 9679567184081f154fa4dbe36b933963db88d2a3
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 17:10:31 2018 +0200
+
+    Correction des bug des sous-questions 1 et 2
+
+commit 81f95a93a227019a8e31a4a95a6e0421cdd8e05a
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 16:32:06 2018 +0200
+
+    Compilation ok
+    
+    Penser à ajouter -lz au linker
+
+commit a8c3c4018e5b7ecef0981273979459e2feb7a690
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 15:53:45 2018 +0200
+
+    Ajout 'Envoyer et recevoir des données' ainsi que première implémentation des 2 premières sous-questions
+
+commit 9447826e8f330c201b445c683f8808b5840b5c82
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 15:46:37 2018 +0200
+
+    Ajout parenthèse manquante
+
+commit 5d27a2d39c92091f84804818585560101b7ac61d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 15:13:16 2018 +0200
+
+    Patch encode decode
+    
+    Correction de la plupart des erreurs de compilation. Inginious n'accepte cependant pas la manière dont on implémente "l'interface"
+
+commit 3b9e8c9eef33b4d9a68624d7e3811a166fd9cf74
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 12:26:27 2018 +0200
+
+    pkt_decode
+    
+    fonction decode, à vérifier
+
+commit 108a3e842d5c80952a3a977b8caa0afdd0fdad27
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 13 09:06:50 2018 +0200
+
+    pkt_encode
+    
+    première mouture de la fonction pkt_encode, il faut encore vérifer qu'elle fonctionne correctement.
+
+commit a872f16277c22c840884b9e1ac4dc8c571f7c8da
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Oct 12 15:35:13 2018 +0200
+
+    segment : get-set
+
+commit 6ad0dd2b29876cbb65998b841e69c133afa57564
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 11 21:12:32 2018 +0200
+
+    Hello world
+    
+    Fichiers de base présent sur inginious
+
+commit 5ae98aea8ce6857d47787e13d694c9022c820be4
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 11 21:08:14 2018 +0200
+
+    Initial commit
+commit 577081197277ccef74d08e23512b889d97bfeae7
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 18:30:52 2018 +0100
+
+    Suppression zip et maj de gitlog
+
+commit 81a44ba87ff6808cb8ee7af2b376bb10a81cb7e6
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 18:29:22 2018 +0100
+
+    Finalisation connexion sender
+
+commit 2af4496087940d91251a7bc9fd62359c948df738
+Merge: d0ba08f 39675c1
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 18:08:08 2018 +0100
+
+    merge
+
+commit d0ba08f2a2854f3da8abc6ce189d44eb3d64fb6f
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 18:04:25 2018 +0100
+
+    Grosses modifications sur sender
+
+commit 39675c107c3f61616aa64a9b9354c7af282be8e3
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 18:01:54 2018 +0100
+
+    Legeres modifications
+
+commit 04c0211e66672cb60bddfef348abd0ac298f8b13
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 17:50:18 2018 +0100
+
+    Receiver cloture
+
+commit b605256bebcf48818bd22817377c8747fb7d3438
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 15:38:35 2018 +0100
+
+    sender
+
+commit 372bce6096406f7ca9ac09aee1291389c35d1de5
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 15:37:19 2018 +0100
+
+    Signaletique des problemes receiver
+
+commit 75a2e560f4d19c3ac98ec41fc47a21d3a39e5986
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 15:01:07 2018 +0100
+
+    Ajustement Makefile principal
+
+commit 71b4249913bd37c2b521af2c12b3b453610ddc8d
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 14:12:01 2018 +0100
+
+    petite modif sender.c
+
+commit ca0096e3c8726115d653cbc0a04b47974e29ddf6
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 14:09:22 2018 +0100
+
+    Adaptation deconnection receiver
+
+commit dd6e9d6d0418fb5c24ea6beac702f96f65864eaf
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 13:10:07 2018 +0100
+
+    Modifications Makefiles et deconnexion receiver
+
+commit 9e6f08e5e9955f299ce799a1af47dc633cd0ac29
+Author: TdesTouches <thomas.destouches@student.uclouvain.be>
+Date:   Fri Nov 2 12:58:54 2018 +0100
+
+    deconnexion sender
+
+commit 5b47f73ff76a6f0d66564c0c196855b2e072f4b3
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 12:05:04 2018 +0100
+
+    Modifications legeres dans sender
+
+commit b5466c9734893c9fcf69515631f9076812ee8804
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 11:44:37 2018 +0100
+
+    Diverses modifications
+
+commit f73a68c01e979cd2ebe6166f9414b18e9c56ec41
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 11:44:17 2018 +0100
+
+    Diverses modifications
+
+commit ae9a964f131e7f5ac0c73ab320c68f753eeba570
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 11:03:09 2018 +0100
+
+    Deconnexion sender en partiel
+
+commit 11c5f3740bfb3854185a73e0a7362df0469ea23a
+Author: Thomas des Touches <tdestouches@grievous.info.ucl.ac.be>
+Date:   Fri Nov 2 10:58:19 2018 +0100
+
+    Tests : ajout fonctions de test sur pointeurs
+
+commit 97253347074f1f79dabf1ec5dd6ac00944228cc6
+Author: P Lamotte <pilamotte@dooku.info.ucl.ac.be>
+Date:   Fri Nov 2 10:29:35 2018 +0100
+
+    Derniere version
+
+commit 7a20ca711705ab6d9461a9f1c32c28a23da99763
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Nov 2 01:37:28 2018 +0100
+
+    Ca fonctiooooooonne
+    
+    youpi.
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit eb6fec20d35eff5174640789885d029e0f398bc5
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 22:35:22 2018 +0100
+
+    Localhost: OK
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit c6c339e5ed36c30f8f771f6c8704f06bd22e00fe
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 18:10:14 2018 +0100
+
+    Débugage tests + résolution partiel receiver
+    
+    Window: OK
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit 25a2bbb0f6e898929a9244cfd55930e84db8d6dd
+Author: Pierre Lamotte <Barracuda@wifi-student5-79.sri.ucl.ac.be>
+Date:   Thu Nov 1 13:47:05 2018 +0100
+
+    Attente a l'ecriture sur le socket [sender] ; rectification bug poll [receiver]
+
+commit b1058811ce695e7f47a67a7d5fff532f0b0a0fbd
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Nov 1 00:14:01 2018 +0100
+
+    Tests pkt : OK!
+
+commit 69e8040630d0f3d2385eadc455de687237ae2ce0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:44:09 2018 +0100
+
+    poursuite tests
+
+commit d120ee33ee2f8338c52fb5f23b64532eebe7f82e
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:10:32 2018 +0100
+
+    bye bye queues
+
+commit cca322f90f9c863c054d7384b1f072c0bc7edbfc
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:09:32 2018 +0100
+
+    Github réparé
+
+commit ba10e2ca3bd2ac11fe4d03de457b387d1a5f6182
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 19:04:49 2018 +0100
+
+    Remplacement dossier src/
+
+commit b67744300c79aab862d97c4020f0ae57b43d7a72
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:02:47 2018 +0100
+
+    Restauration git
+
+commit 6def53c9db1f189b5ef38f90d7aa55f731c29217
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:00:27 2018 +0100
+
+    Revert "Debuggage receiver"
+    
+    This reverts commit 5ad3a2fffac19566f605108f7447ff3146a5e140, reversing
+    changes made to d602db7f7d88b3b48f78cdcc955a9e723f308fa3.
+
+commit 1612f3d5e4d52594fb1244a69d89e83d7aa964ea
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 19:00:16 2018 +0100
+
+    Revert "Debuggage receiver"
+    
+    This reverts commit cf8b6405aca4c11c50f16b65d3baa62c4a1187c9, reversing
+    changes made to 5ad3a2fffac19566f605108f7447ff3146a5e140.
+
+commit cf8b6405aca4c11c50f16b65d3baa62c4a1187c9
+Merge: 5ad3a2f 7c2f508
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 18:49:51 2018 +0100
+
+    Debuggage receiver
+
+commit 5ad3a2fffac19566f605108f7447ff3146a5e140
+Merge: d602db7 faeaabc
+Author: Pierre Lamotte <Barracuda@wifi-student5-989.sri.ucl.ac.be>
+Date:   Wed Oct 31 18:48:13 2018 +0100
+
+    Debuggage receiver
+
+commit 7c2f508271adfa4e5b5ea271ff3416aced87c888
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 18:42:44 2018 +0100
+
+    Tests supplémentaires
+
+commit f35bc58c9c46be9fda727c5db3d0f09d1ce1e1ad
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 31 13:06:17 2018 +0100
+
+    Tests window
+    
+    J'ai ajouté une suite de tests sur la fenêtre.
+
+commit 5ee76a25675a6acea2133c3b0beb0d542255269f
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 30 23:07:21 2018 +0100
+
+    Debugage de l'espoir qui renait
+    
+    Co-Authored-By: fitzreaper <fitzreaper@users.noreply.github.com>
+
+commit cbe6cb245199ae0c4197591136ca3769b92455fb
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 30 20:35:45 2018 +0100
+
+    .
+
+commit d602db7f7d88b3b48f78cdcc955a9e723f308fa3
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 27 14:17:15 2018 +0200
+
+    Tentative d'ajustement d'erreurs dans sender.c
+
+commit faeaabcc3c24b2ff154aca12c450c47d585c9712
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 27 12:30:01 2018 +0200
+
+    Sender (sans selective repeat)
+
+commit 76b3e883a719314c6b5d4a9663daa6bcaff9dd10
+Author: Pierre Lamotte <Barracuda@pierres-air.home>
+Date:   Fri Oct 26 21:28:33 2018 +0200
+
+    Suppression recvfrom et ajustements
+
+commit 12159074b6409f87c0431b4048321fdd10db28f1
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 26 17:16:58 2018 +0200
+
+    Boucle d'attente de client modifiee mais recvfrom pose probleme
+
+commit c1b464d9fb05157db49c096862a1283d5e0a926b
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:32:59 2018 +0200
+
+    Modification de la taille des arguments du sender
+
+commit 37d488e1a9204771e426d9eea3af3fb04ff613f7
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:14:50 2018 +0200
+
+    Suppression executables et objets
+
+commit 54b9aa2db25088bbb5b3e41de5ca1239488826f2
+Author: Pierre Lamotte <Barracuda@wifi-student5-153.sri.ucl.ac.be>
+Date:   Fri Oct 26 13:13:24 2018 +0200
+
+    Correction makefiles
+
+commit bc9390b55b9b623a10423d6f41fa21e4fdf464d8
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:39:13 2018 +0200
+
+    Utilisation pollret dans sender.c
+
+commit 336a2b8c020371a5fb0c94385c4f9f811076bbaa
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:34:22 2018 +0200
+
+    Suppression fichiers.o et executables
+
+commit c52d891aa6669be622a8c03b83d9f39c5a167066
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 05:32:06 2018 +0200
+
+    Rectification d'erreurs
+
+commit 125451fc044834ec959f0e4879f7a8432f921e67
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 04:56:01 2018 +0200
+
+    win_new
+
+commit 347ccb602018aec7020f0a61b95c76c4bddfca56
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 04:47:43 2018 +0200
+
+    Peaufinement + fichier erreurs
+
+commit b9673e8f2b66fc463743220401c70e00be0f117b
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 04:44:07 2018 +0200
+
+    window header
+
+commit 71e456b8947d93a4fdf4d0c4467c94f4247bf65f
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 22 03:20:51 2018 +0200
+
+    Sender, fenêtre d'envoi, temps et next
+
+commit 7fff79173432d9a924aa7e97334fc239fa26eb55
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 03:07:52 2018 +0200
+
+    Finalisation deconnexion receiver
+
+commit e5845ef0eff21de5535a22b11b6f3a7f9595ac8d
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Mon Oct 22 02:38:20 2018 +0200
+
+    Regroupement interface reseau et implementation deconnexion receiver
+
+commit ef068ed88b463a5b96af80aeff48d42794e85aa3
+Author: Pierre Lamotte <Barracuda@wifi-student5-858.sri.ucl.ac.be>
+Date:   Sun Oct 21 22:41:31 2018 +0200
+
+    Legeres modifications pour plus de comprehensibilite
+
+commit 1bfd1f9c7b83df9875ff75fa3cd01beb77a839b9
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 21 15:19:50 2018 +0200
+
+    Sender suite
+
+commit 8b943fdcf4f0479a7c2d7ecbcf6bbe6a35706ece
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 21 12:16:30 2018 +0200
+
+    Debut boucle
+
+commit fec46533cd1e820a0f5aa12df4cdd621934eeac5
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sun Oct 21 01:58:42 2018 +0200
+
+    Debut traitement communication receiver.c et ajout methode dans receiver.h
+
+commit 7ac03802ff836c9f35131fc52ca81d4fca7edace
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 23:55:49 2018 +0200
+
+    Tout pour aujourd'hui
+
+commit dc0e10f842e9d93cbb3b10ab0e6b8786f7f23776
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 16:11:26 2018 +0200
+
+    Sauvegarde sender.c
+
+commit 3561d3f648e0aa7024d731ac970ae28eb6098c94
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 16:06:08 2018 +0200
+
+    Receiver
+
+commit 556e43ea08b12385b2d05299681357eeb74414f1
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 14:47:23 2018 +0200
+
+    Suppression des fichiers objets et de l'executable
+
+commit 0b54fca11a02ca1a88ec765bbf18a621bf2701d3
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 14:40:19 2018 +0200
+
+    Initialisation de la connextion cote serveur
+
+commit 8b967a84c30f249f405a944a435384a9668d5a15
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 13:03:52 2018 +0200
+
+    Remise de receiver.c
+
+commit 92dff86774785134ca1fcc2d9a976c6d95e7f3ba
+Merge: 3044d5a 2a1ba13
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 13:00:51 2018 +0200
+
+    Legeres modifications
+
+commit 3044d5a4982ad7497ea5deaa55036febca7fcd68
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sat Oct 20 12:56:34 2018 +0200
+
+    Legeres modifications
+
+commit 2a1ba1378b3117aa6e416d387967c95f69b96a52
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 12:52:28 2018 +0200
+
+    output file in receiver
+
+commit 3279938c74f8af9c401b1f5a36cd0abf97479b6c
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 12:36:30 2018 +0200
+
+    Receiver arguments
+
+commit d449f8b64aee565a8ea547cf437c180b174347bb
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 03:18:40 2018 +0200
+
+    Suppression des objets issus de make
+
+commit 8f6685937c62bb98a636838497481b6a5ea07797
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Sat Oct 20 03:12:47 2018 +0200
+
+    Implementation de tests a verifier
+
+commit 918cf451681539d23296e8839a0716906c474aad
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 20 01:52:29 2018 +0200
+
+    packet_implem.c OK
+
+commit db05a0281ccd961bd7cdc7c72580d15ebb59ed4b
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 22:14:25 2018 +0200
+
+    Sauvegarde
+
+commit 5607d339b422e6f93cdaa507f6405881e003ce07
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 21:01:34 2018 +0200
+
+    Debut implementation sender.c; Ajout de variables globales dans la librairie; Modification des variables globales dans receiver.c
+
+commit 5d94b767f269444f346e9141bd1ad5f5af8ebfd0
+Author: Pierre Lamotte <Barracuda@Pierres-MacBook-Air.local>
+Date:   Fri Oct 19 19:00:30 2018 +0200
+
+    Finalisation librairie: 'real_address()', 'create_socket()', 'wait_for_client()'
+
+commit 9f6eb65584cb0902f4913a8f9c83dd09d9088438
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Oct 19 12:26:41 2018 +0200
+
+    .
+
+commit 20434caf4c6b8365e2fcc0191d98ecb9525d0c21
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 22:33:29 2018 +0200
+
+    receiver et window : suite
+
+commit 1a0707f1d73bd496cca0b0160ace92f1f98f71c3
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 19:59:22 2018 +0200
+
+    begin receiver et window
+
+commit 11ab45df1b32ab380626082851644f723d217685
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 12:35:07 2018 +0200
+
+    début receiver et struct window
+
+commit c364b0ea9718bec20738d3217541f32cf328f0a7
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 18 02:46:07 2018 +0200
+
+    Encode OK
+
+commit 7a76674dda5308a1ba82dc70abb98650f7472899
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:31:50 2018 +0200
+
+    Re-mise à niveau
+
+commit 27e93b8f25b86a7265c3ccae398a6c5c43468877
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:29:17 2018 +0200
+
+    Reparation, on espère
+
+commit 26c5f8972712f781959db6d1942e017e4f8f1057
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:27:29 2018 +0200
+
+    Mise a niveau
+
+commit 1afaa369661a830dc21314aaaf6a6cca6916b659
+Merge: 8d76286 f4215c3
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:27:10 2018 +0200
+
+    Mise a niveau
+
+commit 8d762869bf5f413267e8e681bedb1453fc466db5
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 22:20:32 2018 +0200
+
+    Mise à niveau
+
+commit f4215c33a54c01d428663f9d105edb6cb0358fb8
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:17:55 2018 +0200
+
+    Update test.h
+
+commit 9a891cb75f26a4f3bc4e9c1fc07d4976b6595925
+Merge: 0706027 90b51c8
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:17:38 2018 +0200
+
+    Merge branch 'master' of https://github.com/TdesTouches/projet1_Lamotte_desTouches
+
+commit 07060271aa732ee43c830264aa32d615563c4f35
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:16:25 2018 +0200
+
+    réparation git
+
+commit 90b51c846ac86674d877db105cc8ea4e8158e6d4
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:00:43 2018 +0200
+
+    Update test.h
+
+commit 42f11226677b188d4415c77c402b4dc9c6921010
+Merge: f76d314 7b3c964
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 22:00:35 2018 +0200
+
+    Merge branch 'master' of https://github.com/TdesTouches/projet1_Lamotte_desTouches
+
+commit f76d314249d8292ab8a29432a8c1c1e5bd4e7155
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 21:59:46 2018 +0200
+
+    Test encore une fois
+    
+    snif
+
+commit 7b3c96438539645b88402f7995124c0f14ef0cc6
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 19:20:25 2018 +0200
+
+    Modifications diverses
+
+commit 07cc30ca597a33c92f5b0bc30d20911fe2779990
+Author: Pierre Lamotte <Barracuda@wifi-student5-78.sri.ucl.ac.be>
+Date:   Wed Oct 17 15:49:48 2018 +0200
+
+    Modification Makefile + ajout librairie à implémenter
+
+commit dc591432eef0193ca97b152122adabc093b76db0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 15:38:56 2018 +0200
+
+    test_encode patch2
+
+commit 4e558d5d2e8e09e92b4c7d9ace6065b1235bbfe2
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 15:22:18 2018 +0200
+
+    test_encode patch1
+
+commit 2fb2c3884943d9c4826cdd9dc05491fbefee83f3
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 14:06:26 2018 +0200
+
+    Test encode
+
+commit 265c89954f309833bff998850e5f9512051e53ce
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 01:46:52 2018 +0200
+
+    debut test encode
+
+commit 4173ab1b49de9c3bdcbbd0c71dcc9d86d37bda0a
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 00:36:35 2018 +0200
+
+    suppression doublon
+
+commit cbab557604d94fcc58e1485433e60ec15158ee3d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Wed Oct 17 00:01:43 2018 +0200
+
+    tests get set OK
+    
+    fin des tests get sets, application de ceux-ci et correction du code en conséquence.
+
+commit 401a2b91e047e2b47dc5e7e0297f36e5eaa3a199
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 23:32:38 2018 +0200
+
+    Implémentation complète de chat.c
+
+commit 6eed061dc738016fc41eb104e9ec407501b8694e
+Merge: 5a0790c 5f60d7b
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:35:56 2018 +0200
+
+    Modifications Makefile
+
+commit 5a0790cb9abef9a925fe98944ba8ed0490278440
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:32:54 2018 +0200
+
+    Modifications Makefile
+
+commit 9189537a2c885ce33f5dca5d9f239ec5a8d48ed4
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:32:14 2018 +0200
+
+    Modifications Makefile
+
+commit 5f60d7b2dd71f198395608be88e35e801f2600ca
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:20:31 2018 +0200
+
+    retour à la ligne
+
+commit ed2965bc87dd065efbc054ba001b53cb9301833d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:17:55 2018 +0200
+
+    test correction 2
+
+commit 5b489aceb94bd11c29683b700b25c46077a00a63
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 22:14:20 2018 +0200
+
+    Corection tests
+
+commit e9c13368a56ab3c0f76e387bcceb2697a561f319
+Author: Pierre Lamotte <Barracuda@wifi-student5-753.sri.ucl.ac.be>
+Date:   Tue Oct 16 22:04:28 2018 +0200
+
+    Ajout Makefile basique
+
+commit e4628e521cde6d669e1a554da35ce93d9b77907d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Tue Oct 16 21:25:16 2018 +0200
+
+    Tests : get set
+
+commit 6d29d59cabdacde8478ec595d7930503070384b7
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Mon Oct 15 21:33:53 2018 +0200
+
+    Implémentation de 'read_write_loop' inspiré de developpez.com
+
+commit e662fca1935ce4ef9f1ea74bbe7941601732cce0
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Mon Oct 15 12:15:04 2018 +0200
+
+    Début tests : non opérationnel
+
+commit 9679567184081f154fa4dbe36b933963db88d2a3
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 17:10:31 2018 +0200
+
+    Correction des bug des sous-questions 1 et 2
+
+commit 81f95a93a227019a8e31a4a95a6e0421cdd8e05a
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 16:32:06 2018 +0200
+
+    Compilation ok
+    
+    Penser à ajouter -lz au linker
+
+commit a8c3c4018e5b7ecef0981273979459e2feb7a690
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 15:53:45 2018 +0200
+
+    Ajout 'Envoyer et recevoir des données' ainsi que première implémentation des 2 premières sous-questions
+
+commit 9447826e8f330c201b445c683f8808b5840b5c82
+Author: Baracuda <Baracuda@iMac-de-macuser.local>
+Date:   Sun Oct 14 15:46:37 2018 +0200
+
+    Ajout parenthèse manquante
+
+commit 5d27a2d39c92091f84804818585560101b7ac61d
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 15:13:16 2018 +0200
+
+    Patch encode decode
+    
+    Correction de la plupart des erreurs de compilation. Inginious n'accepte cependant pas la manière dont on implémente "l'interface"
+
+commit 3b9e8c9eef33b4d9a68624d7e3811a166fd9cf74
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sun Oct 14 12:26:27 2018 +0200
+
+    pkt_decode
+    
+    fonction decode, à vérifier
+
+commit 108a3e842d5c80952a3a977b8caa0afdd0fdad27
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Sat Oct 13 09:06:50 2018 +0200
+
+    pkt_encode
+    
+    première mouture de la fonction pkt_encode, il faut encore vérifer qu'elle fonctionne correctement.
+
+commit a872f16277c22c840884b9e1ac4dc8c571f7c8da
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Fri Oct 12 15:35:13 2018 +0200
+
+    segment : get-set
+
+commit 6ad0dd2b29876cbb65998b841e69c133afa57564
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 11 21:12:32 2018 +0200
+
+    Hello world
+    
+    Fichiers de base présent sur inginious
+
+commit 5ae98aea8ce6857d47787e13d694c9022c820be4
+Author: TdesTouches <36238890+TdesTouches@users.noreply.github.com>
+Date:   Thu Oct 11 21:08:14 2018 +0200
+
+    Initial commit
